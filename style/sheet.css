@@ -1,0 +1,82 @@
+#login_bar
+{
+  height:75px;
+  width:100%;
+  background-color: red;
+  padding-left:10px;
+  padding-right:10px;
+}
+
+#nav_bar
+{
+  float:right;
+  max-height:75px;
+}
+
+#nav_option
+{
+  height:75px;
+  width:100px;
+  background-color:#0f0;
+  margin-left:10px;
+  text-align: center;
+  line-height: 75px;
+  float:left;
+}
+
+#nav_bar a
+{
+  text-decoration: none;
+  color:inherit;
+}
+
+#nav_option:hover
+{
+  background-color:#0a0;
+}
+
+#main
+{
+  width:85%;
+  margin-left: 7.5%;
+  background-color: #00f;
+  padding:10px;
+  float: left;
+}
+
+#match
+{
+  background-color: white;
+  height:auto;
+  padding:5px;
+}
+
+#versus
+{
+  text-align: center;
+}
+
+#badge1 img
+{
+  max-height:50px;
+  width:auto;
+  
+}
+
+#club_text
+{
+    float:left;
+
+}
+
+#badge2 img
+{
+  float:right;
+  max-height:50px;
+  width:auto;
+}
+
+#club_text2
+{
+  float:right;
+}
